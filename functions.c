@@ -16,9 +16,6 @@
  *
  * @return The number of characters printed.
  */
-int print_character(/* parameters */) {
-    // Function implementation goes here
-}
 
 
 int print_char(va_list types, char buffer[],

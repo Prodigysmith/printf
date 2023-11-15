@@ -13,9 +13,6 @@
  *
  * Return: The number of characters printed.
  */
-int print_unsigned(/* parameters */) {
-    // Function implementation goes here
-}
 
 int print_unsigned(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
